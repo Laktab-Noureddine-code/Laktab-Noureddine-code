@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer with expertise in modern web technologies. I'm passionate about creating efficient, scalable, and user-friendly applications.
 
-## 🚀 About Me
-
-- 🔭 Currently working on improving my skills in Full Stack Web Development
-- 🌱 Learning advanced React patterns and exploring new backend technologies  
-- 👯 Looking to collaborate on open-source projects and innovative web applications
-- 💬 Ask me about JavaScript, React, Node.js, or any web development topics
-- 📫 How to reach me: noureddine.laktab15@gmail.com
-- ⚡ Fun fact: I love turning coffee into code!
-
 ## 🛠️ Technologies & Tools
 
 ### Front-end Development
@@ -44,43 +35,32 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer with expertise in m
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laktab-Noureddine-code
-&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Laktab-Noureddine-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/Laktab-Noureddine-code/TrackTab)
+### [TrackTab](https://github.com/Laktab-Noureddine-code/TrackTab)
 A full-stack web application for managing tasks and projects. Built with React, Node.js, and MongoDB.
 
-### [Project Name 2](https://github.com/Laktab-Noureddine-code/project2)
+### [M&N](https://github.com/Laktab-Noureddine-code/Social-blog-application)
 An e-commerce website with advanced filtering and payment integration. Developed using Next.js and Stripe API.
-
-### [Project Name 3](https://github.com/Laktab-Noureddine-code/project3)
-A real-time chat application with video calling features. Built with Socket.io and WebRTC.
 
 ## 🤝 Let's Connect
 
 <div align="left">
-  <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/n_laktab" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:noureddine.laktab15@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/noureddine-laktab-171087305" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
